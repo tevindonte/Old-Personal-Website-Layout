@@ -1,0 +1,628 @@
+/* screen - code */
+
+.code {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.code .overlap-group3 {
+  height: 2508px;
+  margin-left: -197px;
+  margin-top: -377px;
+  position: relative;
+  width: 1588px;
+}
+
+.code .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.code .overlap-group {
+  height: 2329px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1588px;
+}
+
+.code .layer-12 {
+  height: 55px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.code .layer-13 {
+  height: 1276px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.code .layer-13-copy-2 {
+  height: 1654px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.code .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 185px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.code .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 1448px;
+  left: 197px;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.code .yellow {
+  object-fit: cover;
+  width: 100%;
+}
+
+.code .yellow-copy {
+  height: 1448px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.code .layer-8 {
+  height: 1920px;
+  left: 1413px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.code .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.code .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.code .overlap-group1 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.code .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.code .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.code .text-8 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.code .text-8.animate-enter7 {
+  animation: animate-enter7-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.code .overlap-group2 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.code .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.code .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.code .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.code .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.code .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.code .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .store:hover {
+  transform: scale(1.1);
+}
+
+.code .resume {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .resume:hover {
+  transform: scale(1.1);
+}
+
+.code .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.code .model {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .model:hover {
+  transform: scale(1.1);
+}
+
+.code .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.code .code-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .code-1:hover {
+  transform: scale(1.1);
+}
+
+.code .tevin-parboosingh-2022 {
+  left: 286px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.code .layer-16 {
+  height: 39px;
+  left: 761px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.code .instagram {
+  cursor: pointer;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .twitter {
+  cursor: pointer;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .layer-17 {
+  height: 30px;
+  left: 903px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.code .layer-17-copy-2 {
+  height: 30px;
+  left: 1273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.code .layer-17-copy {
+  height: 30px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.code .linkedin {
+  cursor: pointer;
+  left: 1144px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .layer-18 {
+  height: 43px;
+  left: 932px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.code .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1118px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.code .general-inquiries {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.code .github {
+  cursor: pointer;
+  left: 1324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.code .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.code .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 75px;
+  left: 244px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
+
+.code .rectangle-2 {
+  background-color: var(--white);
+  height: 2px;
+  left: 1035px;
+  position: absolute;
+  top: 465px;
+  width: 47px;
+}
+
+.code .rectangle-5 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 267px;
+  position: absolute;
+  top: 580px;
+  width: 262px;
+}
+
+.code .projects {
+  left: 289px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.code .rectangle-7 {
+  background-color: var(--supernova-2);
+  height: 1375px;
+  left: 267px;
+  position: absolute;
+  top: 698px;
+  width: 1065px;
+}
+
+.code .ee-filler-developer {
+  height: 1346px;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 716px;
+  width: 1050px;
+}
+
+.code .rectangle-8 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 591px;
+  position: absolute;
+  top: 580px;
+  width: 191px;
+}
+
+.code .languages {
+  left: 613px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.code .rectangle-9 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 820px;
+  position: absolute;
+  top: 580px;
+  width: 119px;
+}
+
+.code .rectangle-10 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 1059px;
+  position: absolute;
+  top: 580px;
+  width: 73px;
+}
+
+.code .rectangle-11 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 952px;
+  position: absolute;
+  top: 580px;
+  width: 94px;
+}
+
+.code .rectangle-12 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 1147px;
+  position: absolute;
+  top: 580px;
+  width: 71px;
+}
+
+.code .x {
+  left: 820px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 594px;
+  white-space: nowrap;
+}
+
+.code .javascript {
+  left: 828px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.code .python {
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.code .java {
+  left: 1074px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.code .html {
+  left: 1159px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 593px;
+  white-space: nowrap;
+}
+
+.code .rectangle-13 {
+  background-color: var(--supernova-2);
+  height: 46px;
+  left: 1237px;
+  position: absolute;
+  top: 580px;
+  width: 56px;
+}
+
+.code .sql {
+  left: 1249px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 593px;
+  white-space: nowrap;
+}

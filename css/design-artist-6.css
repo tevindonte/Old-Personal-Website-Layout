@@ -1,0 +1,615 @@
+/* screen - design-artist-6 */
+
+.design-artist-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.design-artist-6 .overlap-group3 {
+  height: 2508px;
+  margin-left: -197px;
+  margin-top: -377px;
+  position: relative;
+  width: 1588px;
+}
+
+.design-artist-6 .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.design-artist-6 .overlap-group {
+  height: 2329px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1588px;
+}
+
+.design-artist-6 .layer-12 {
+  height: 55px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.design-artist-6 .layer-13 {
+  height: 1276px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.design-artist-6 .layer-13-copy-2 {
+  height: 1654px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.design-artist-6 .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 185px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.design-artist-6 .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 1448px;
+  left: 197px;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.design-artist-6 .yellow {
+  object-fit: cover;
+  width: 100%;
+}
+
+.design-artist-6 .yellow-copy {
+  height: 1448px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.design-artist-6 .layer-8 {
+  height: 1920px;
+  left: 1413px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.design-artist-6 .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.design-artist-6 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.design-artist-6 .overlap-group1 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.design-artist-6 .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.design-artist-6 .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.design-artist-6 .text-1 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.design-artist-6 .text-1.animate-enter {
+  animation: animate-enter-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.design-artist-6 .overlap-group2 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.design-artist-6 .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.design-artist-6 .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.design-artist-6 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.design-artist-6 .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-6 .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .store:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .resume {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .resume:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-6 .model {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .model:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-6 .code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .code:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .tevin-parboosingh-2022 {
+  left: 286px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.design-artist-6 .layer-16 {
+  height: 39px;
+  left: 761px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.design-artist-6 .instagram {
+  cursor: pointer;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-6 .twitter {
+  cursor: pointer;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-6 .layer-17 {
+  height: 30px;
+  left: 903px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-6 .layer-17-copy-2 {
+  height: 30px;
+  left: 1273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-6 .layer-17-copy {
+  height: 30px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-6 .linkedin {
+  cursor: pointer;
+  left: 1144px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-6 .layer-18 {
+  height: 43px;
+  left: 932px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.design-artist-6 .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1118px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .general-inquiries {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.design-artist-6 .github {
+  cursor: pointer;
+  left: 1324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-6 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 75px;
+  left: 244px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
+
+.design-artist-6 .rectangle-2 {
+  background-color: var(--white);
+  height: 2px;
+  left: 583px;
+  position: absolute;
+  top: 465px;
+  width: 133px;
+}
+
+.design-artist-6 .logo-design {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 574px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .logo-design:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .motion-design {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 640px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .motion-design:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .header {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 674px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .header:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .intro {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 707px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .intro:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .misc {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 740px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .misc:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .team-package {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 607px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .team-package:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .rectangle-2-1 {
+  background-color: var(--white);
+  height: 2px;
+  left: 221px;
+  position: absolute;
+  top: 748px;
+  width: 47px;
+}
+
+.design-artist-6 .art {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 770px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-6 .art:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-6 .notdone {
+  height: 724px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 585px;
+  width: 483px;
+}
+
+.design-artist-6 .uh8ih {
+  height: 724px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 585px;
+  width: 483px;
+}
+
+.design-artist-6 .o_1f10hq8pvrmn1i6m5ah1rlev3v-1 {
+  height: 522px;
+  left: 380px;
+  object-fit: cover;
+  position: absolute;
+  top: 1337px;
+  width: 492px;
+}

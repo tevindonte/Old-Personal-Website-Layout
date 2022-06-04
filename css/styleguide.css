@@ -1,0 +1,107 @@
+:root { 
+  --black: #000000;
+  --supernova: #ffc500;
+  --supernova-2: #ffc501;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15.9px;
+  --font-size-s: 15.8px;
+  --font-size-xl: 18px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 23px;
+  --font-size-xxxl: 23.9px;
+ 
+  --font-family-industry-black: "Industry-Black", Helvetica;
+  --font-family-segoeuiblack: "SegoeUIBlack", Helvetica;
+}
+.segoeui-normal-supernova-14px {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}
+
+.segoeui-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}
+
+.industry-black-black-15-9px {
+  color: var(--black);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.industry-black-supernova-15-8px {
+  color: var(--supernova);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.segoeui-normal-supernova-16px {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-l);
+  font-style: normal;
+}
+
+.industry-black-supernova-15-8px-2 {
+  color: var(--supernova);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.industry-black-supernova-15-9px {
+  color: var(--supernova);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.industry-black-supernova-15-9px-2 {
+  color: var(--supernova);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.industry-black-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.industry-black-black-23-9px {
+  color: var(--black);
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.segoeui-normal-black-14px-2 {
+  color: var(--black);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}
+
+.segoeui-normal-black-14px-3 {
+  color: var(--black);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+}

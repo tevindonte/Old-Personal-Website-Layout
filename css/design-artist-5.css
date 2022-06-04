@@ -1,0 +1,704 @@
+/* screen - design-artist-5 */
+
+.design-artist-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.design-artist-5 .overlap-group3 {
+  height: 2508px;
+  margin-left: -197px;
+  margin-top: -377px;
+  position: relative;
+  width: 2697px;
+}
+
+.design-artist-5 .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.design-artist-5 .group-2 {
+  align-items: center;
+  display: flex;
+  height: 2329px;
+  left: 0;
+  min-width: 2697px;
+  position: absolute;
+  top: 179px;
+}
+
+.design-artist-5 .overlap-group {
+  height: 2329px;
+  position: relative;
+  width: 1588px;
+}
+
+.design-artist-5 .layer-12 {
+  height: 55px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.design-artist-5 .layer-13 {
+  height: 1276px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.design-artist-5 .layer-13-copy-2 {
+  height: 1654px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.design-artist-5 .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 185px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.design-artist-5 .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 1448px;
+  left: 197px;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.design-artist-5 .yellow {
+  object-fit: cover;
+  width: 100%;
+}
+
+.design-artist-5 .layer-8 {
+  height: 1920px;
+  left: 1413px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.design-artist-5 .rectangle-35 {
+  background-color: var(--white);
+  border: 1px solid #707070;
+  height: 1500px;
+  margin-left: 109px;
+  margin-top: 79.0px;
+  width: 1000px;
+}
+
+.design-artist-5 .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.design-artist-5 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.design-artist-5 .overlap-group1 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.design-artist-5 .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.design-artist-5 .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.design-artist-5 .text-2 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.design-artist-5 .text-2.animate-enter1 {
+  animation: animate-enter1-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.design-artist-5 .overlap-group2 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.design-artist-5 .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.design-artist-5 .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.design-artist-5 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.design-artist-5 .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-5 .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .store:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .resume {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .resume:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-5 .model {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .model:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.design-artist-5 .code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .code:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .tevin-parboosingh-2022 {
+  left: 286px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.design-artist-5 .layer-16 {
+  height: 39px;
+  left: 761px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.design-artist-5 .instagram {
+  cursor: pointer;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-5 .twitter {
+  cursor: pointer;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-5 .layer-17 {
+  height: 30px;
+  left: 903px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-5 .layer-17-copy-2 {
+  height: 30px;
+  left: 1273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-5 .layer-17-copy {
+  height: 30px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.design-artist-5 .linkedin {
+  cursor: pointer;
+  left: 1144px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-5 .layer-18 {
+  height: 43px;
+  left: 932px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.design-artist-5 .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1118px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .general-inquiries {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.design-artist-5 .github {
+  cursor: pointer;
+  left: 1324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.design-artist-5 .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 75px;
+  left: 244px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
+
+.design-artist-5 .rectangle-2 {
+  background-color: var(--white);
+  height: 2px;
+  left: 583px;
+  position: absolute;
+  top: 465px;
+  width: 133px;
+}
+
+.design-artist-5 .logo-design {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 574px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .logo-design:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .motion-design {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 640px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .motion-design:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .header {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 674px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .header:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .intro {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 707px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .intro:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .misc {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 740px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .misc:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .team-package {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 607px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .team-package:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .rectangle-2-1 {
+  background-color: var(--white);
+  height: 2px;
+  left: 216px;
+  position: absolute;
+  top: 681px;
+  width: 83px;
+}
+
+.design-artist-5 .art {
+  cursor: pointer;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 770px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.design-artist-5 .art:hover {
+  transform: scale(1.1);
+}
+
+.design-artist-5 .x733604-l-ga-h-zmj-v {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 573px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604f-ys1-jd-bf {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 573px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604n-pm-m-ue-sf {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 743px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604-n-dio-p4qr {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 743px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604mbx-j-cdmm {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 913px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604-qt-z4m-lx-z {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 913px;
+  width: 456px;
+}
+
+.design-artist-5 .x73360429a-bmdhb-1 {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 1083px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604azk-xf-cb9-1 {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 1083px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604q-ff-gkobu {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 1253px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604-xb7mg6-wm-2 {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 1253px;
+  width: 456px;
+}
+
+.design-artist-5 .x733604k-if-u9y-bu {
+  height: 152px;
+  left: 414px;
+  object-fit: cover;
+  position: absolute;
+  top: 1423px;
+  width: 456px;
+}
+
+.design-artist-5 .x7336047g0-euw-lh {
+  height: 152px;
+  left: 894px;
+  object-fit: cover;
+  position: absolute;
+  top: 1423px;
+  width: 456px;
+}

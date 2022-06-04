@@ -1,0 +1,510 @@
+/* screen - model */
+
+.model {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.model .overlap-group3 {
+  height: 2508px;
+  margin-left: -197px;
+  margin-top: -377px;
+  position: relative;
+  width: 1588px;
+}
+
+.model .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.model .overlap-group {
+  height: 2329px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1588px;
+}
+
+.model .layer-12 {
+  height: 55px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.model .layer-13 {
+  height: 1276px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.model .layer-13-copy-2 {
+  height: 1654px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.model .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 185px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.model .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 1448px;
+  left: 197px;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.model .yellow {
+  object-fit: cover;
+  width: 100%;
+}
+
+.model .yellow-copy {
+  height: 1448px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.model .layer-8 {
+  height: 1920px;
+  left: 1413px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.model .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.model .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.model .overlap-group2 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.model .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.model .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.model .text-10 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.model .text-10.animate-enter9 {
+  animation: animate-enter9-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.model .overlap-group1 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.model .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.model .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.model .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.model .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.model .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.model .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .store:hover {
+  transform: scale(1.1);
+}
+
+.model .resume {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .resume:hover {
+  transform: scale(1.1);
+}
+
+.model .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.model .model-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .model-1:hover {
+  transform: scale(1.1);
+}
+
+.model .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.model .code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .code:hover {
+  transform: scale(1.1);
+}
+
+.model .tevin-parboosingh-2022 {
+  left: 286px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.model .layer-16 {
+  height: 39px;
+  left: 761px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.model .instagram {
+  cursor: pointer;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.model .twitter {
+  cursor: pointer;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.model .layer-17 {
+  height: 30px;
+  left: 903px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.model .layer-17-copy-2 {
+  height: 30px;
+  left: 1273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.model .layer-17-copy {
+  height: 30px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.model .linkedin {
+  cursor: pointer;
+  left: 1144px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.model .layer-18 {
+  height: 43px;
+  left: 932px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.model .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1118px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.model .general-inquiries {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.model .github {
+  cursor: pointer;
+  left: 1324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.model .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.model .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 75px;
+  left: 244px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
+
+.model .rectangle-2 {
+  background-color: var(--white);
+  height: 2px;
+  left: 943px;
+  position: absolute;
+  top: 465px;
+  width: 61px;
+}
+
+.model .x2 {
+  height: 444px;
+  left: 423px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 365px;
+}
+
+.model .sadad {
+  height: 444px;
+  left: 423px;
+  object-fit: cover;
+  position: absolute;
+  top: 1191px;
+  width: 365px;
+}
+
+.model .rgreg {
+  height: 444px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 1191px;
+  width: 365px;
+}
+
+.model .image00021 {
+  height: 444px;
+  left: 842px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 365px;
+}

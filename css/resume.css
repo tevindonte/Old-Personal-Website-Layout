@@ -1,0 +1,492 @@
+/* screen - resume */
+
+.resume {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.resume .overlap-group3 {
+  height: 2508px;
+  margin-left: -197px;
+  margin-top: -377px;
+  position: relative;
+  width: 1588px;
+}
+
+.resume .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 152px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.resume .overlap-group {
+  height: 2329px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1588px;
+}
+
+.resume .layer-12 {
+  height: 55px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.resume .layer-13 {
+  height: 1276px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.resume .layer-13-copy-2 {
+  height: 1654px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.resume .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 185px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.resume .widget-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 1448px;
+  left: 197px;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.resume .yellow {
+  object-fit: cover;
+  width: 100%;
+}
+
+.resume .yellow-copy {
+  height: 1448px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.resume .layer-8 {
+  height: 1920px;
+  left: 1413px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.resume .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.resume .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.resume .overlap-group1 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.resume .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.resume .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.resume .text-9 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.resume .text-9.animate-enter8 {
+  animation: animate-enter8-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.resume .overlap-group2 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.resume .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.resume .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.resume .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.resume .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.resume .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.resume .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .store:hover {
+  transform: scale(1.1);
+}
+
+.resume .resume-1 {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .resume-1:hover {
+  transform: scale(1.1);
+}
+
+.resume .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.resume .model {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .model:hover {
+  transform: scale(1.1);
+}
+
+.resume .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.resume .code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .code:hover {
+  transform: scale(1.1);
+}
+
+.resume .tevin-parboosingh-2022 {
+  left: 286px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.resume .layer-16 {
+  height: 39px;
+  left: 761px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.resume .instagram {
+  cursor: pointer;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .twitter {
+  cursor: pointer;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .layer-17 {
+  height: 30px;
+  left: 903px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.resume .layer-17-copy-2 {
+  height: 30px;
+  left: 1273px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.resume .layer-17-copy {
+  height: 30px;
+  left: 1083px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.resume .linkedin {
+  cursor: pointer;
+  left: 1144px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .layer-18 {
+  height: 43px;
+  left: 932px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.resume .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1118px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.resume .general-inquiries {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.resume .github {
+  cursor: pointer;
+  left: 1324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.resume .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.resume .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 75px;
+  left: 244px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
+
+.resume .rectangle-2 {
+  background-color: var(--white);
+  height: 2px;
+  left: 853px;
+  position: absolute;
+  top: 465px;
+  width: 75px;
+}
+
+.resume .rectangle-4 {
+  background-color: var(--supernova-2);
+  height: 1505px;
+  left: 256px;
+  position: absolute;
+  top: 557px;
+  width: 1093px;
+}
+
+.resume .profile-enthusias {
+  left: 271px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 573px;
+  white-space: nowrap;
+}

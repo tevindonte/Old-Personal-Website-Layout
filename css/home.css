@@ -1,0 +1,956 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  display: flex;
+  height: 1920px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.home .overlap-group6 {
+  height: 2508px;
+  margin-left: -235px;
+  margin-top: -377px;
+  position: relative;
+  width: 1626px;
+}
+
+.home .main-30-0-00-12-11-copy {
+  height: 2441px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1373px;
+}
+
+.home .overlap-group {
+  height: 2329px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1626px;
+}
+
+.home .layer-12 {
+  height: 55px;
+  left: 489px;
+  object-fit: cover;
+  position: absolute;
+  top: 1037px;
+  width: 55px;
+}
+
+.home .rectangle-37 {
+  height: 1986px;
+  left: 223px;
+  mix-blend-mode: hue;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.home .rectangle-3 {
+  background-color: var(--black);
+  height: 1986px;
+  left: 223px;
+  opacity: 0.51;
+  position: absolute;
+  top: 158px;
+  width: 1403px;
+}
+
+.home .layer-13 {
+  height: 1276px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1219px;
+}
+
+.home .layer-13-copy-2 {
+  height: 1654px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 1385px;
+}
+
+.home .yellow {
+  height: 1448px;
+  left: 235px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 1280px;
+}
+
+.home .layer-8 {
+  height: 1920px;
+  left: 1451px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 64px;
+}
+
+.home .layer-13-copy {
+  display: block;
+  height: 740px;
+  left: 848px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 345px;
+  transform: translate(25px, 0);
+  width: 485px;
+}
+
+.home .layer-13-copy.animate-enter10 {
+  animation: animate-enter10-frames 2.00s ease 0.20s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+}
+
+@keyframes animate-enter10-frames {
+  from{opacity: 0;
+transform: translate(25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.home .we {
+  display: block;
+  height: 610px;
+  left: 0;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 397px;
+  transform: scale(1.1);
+  width: 1317px;
+}
+
+.home .we.animate-enter11 {
+  animation: animate-enter11-frames 1.00s ease 0.20s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter11-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.home .texts {
+  display: block;
+  height: 610px;
+  left: 235px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 396px;
+  transform: translate(-25px, 0);
+  width: 1101px;
+}
+
+.home .texts.animate-enter12 {
+  animation: animate-enter12-frames 2.00s ease 0.20s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter12-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.home .overquestion {
+  display: block;
+  height: 53px;
+  left: 864px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 720px;
+  transform: translate(-25px, 0);
+  width: 301px;
+}
+
+.home .overquestion.animate-enter13 {
+  animation: animate-enter13-frames 2.00s ease 0.20s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(-25px, 0);
+}
+
+@keyframes animate-enter13-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.home .overlap-group1 {
+  height: 1866px;
+  left: 200px;
+  position: absolute;
+  top: 293px;
+  width: 1268px;
+}
+
+.home .layer-10-copy-2 {
+  height: 23px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 23px;
+}
+
+.home .layer-10 {
+  height: 67px;
+  left: 723px;
+  object-fit: cover;
+  position: absolute;
+  top: 260px;
+  width: 67px;
+}
+
+.home .layer-10-copy-6 {
+  height: 535px;
+  left: 439px;
+  object-fit: cover;
+  position: absolute;
+  top: 675px;
+  width: 523px;
+}
+
+.home .layer-10-copy-3 {
+  height: 72px;
+  left: 963px;
+  object-fit: cover;
+  position: absolute;
+  top: 942px;
+  width: 72px;
+}
+
+.home .layer-10-copy {
+  height: 35px;
+  left: 255px;
+  object-fit: cover;
+  position: absolute;
+  top: 748px;
+  width: 35px;
+}
+
+.home .cvsv {
+  height: 1866px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1268px;
+}
+
+.home .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 630px;
+  min-height: 44px;
+  position: absolute;
+  top: 430px;
+  width: 490px;
+}
+
+.home .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 10.66px;
+  margin-top: 1px;
+  min-width: 404px;
+}
+
+.home .overlap-group2 {
+  height: 22px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 75px;
+}
+
+.home .layer-4 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 75px;
+}
+
+.home .usage {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .text-11 {
+  letter-spacing: 0;
+  line-height: 19.2px;
+  margin-left: 66px;
+  min-height: 23px;
+  min-width: 25px;
+  opacity: 0;
+  transform: scale(1.1);
+  white-space: nowrap;
+}
+
+.home .text-11.animate-enter14 {
+  animation: animate-enter14-frames 1.00s ease 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+transform: scale(1.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.home .overlap-group3 {
+  height: 22px;
+  margin-left: 37px;
+  margin-top: 0.23px;
+  position: relative;
+  width: 201px;
+}
+
+.home .layer-4-copy {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 201px;
+}
+
+.home .name {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  margin-top: 1px;
+  min-width: 490px;
+}
+
+.home .digital-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-top: 0.07px;
+  min-height: 21px;
+  min-width: 116px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .digital-artist:hover {
+  transform: scale(1.1);
+}
+
+.home .layer-5-copy-2 {
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.home .store {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 15px;
+  min-height: 22px;
+  min-width: 51px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .store:hover {
+  transform: scale(1.1);
+}
+
+.home .resume {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  margin-left: 62px;
+  min-height: 22px;
+  min-width: 65px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .resume:hover {
+  transform: scale(1.1);
+}
+
+.home .layer-5 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.home .model {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 11px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 54px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .model:hover {
+  transform: scale(1.1);
+}
+
+.home .layer-5-copy {
+  height: 17px;
+  margin-left: 21px;
+  margin-top: 0.07px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.home .code {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  margin-left: 15px;
+  margin-top: 0.15px;
+  min-height: 21px;
+  min-width: 42px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .code:hover {
+  transform: scale(1.1);
+}
+
+.home .group-1-1 {
+  background-image: url(../img/layer-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 791px;
+  position: absolute;
+  top: 1331px;
+  width: 164px;
+}
+
+.home .press-start {
+  color: var(--black);
+  cursor: pointer;
+  flex: 1;
+  font-family: var(--font-family-industry-black);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  letter-spacing: 1.15px;
+  line-height: 25px;
+  margin-bottom: -0.5px;
+  margin-left: 3px;
+  margin-right: 1px;
+  margin-top: 3.5px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.home .press-start:hover {
+  transform: scale(1.1);
+}
+
+.home .tevin-parboosingh-2022 {
+  left: 324px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.home .layer-16 {
+  height: 39px;
+  left: 799px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 652px;
+}
+
+.home .instagram {
+  cursor: pointer;
+  left: 822px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .instagram:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.home .twitter {
+  cursor: pointer;
+  left: 1002px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .twitter:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.home .layer-17 {
+  height: 30px;
+  left: 941px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.home .layer-17-copy-2 {
+  height: 30px;
+  left: 1311px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.home .layer-17-copy {
+  height: 30px;
+  left: 1121px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 2px;
+}
+
+.home .linkedin {
+  cursor: pointer;
+  left: 1182px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .linkedin:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.home .layer-18 {
+  height: 43px;
+  left: 970px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 2130px;
+  width: 481px;
+}
+
+.home .tparboosingh84gmailcom {
+  cursor: pointer;
+  left: 1156px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2140px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .tparboosingh84gmailcom:hover {
+  transform: scale(1.1);
+}
+
+.home .general-inquiries {
+  left: 995px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2141px;
+  white-space: nowrap;
+}
+
+.home .github {
+  cursor: pointer;
+  left: 1362px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 2233px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .github:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.home .group-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 380px;
+  min-height: 159px;
+  position: absolute;
+  top: 1922px;
+  width: 119px;
+}
+
+.home .design-artist {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: 1px;
+  min-height: 21px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .design-artist:hover {
+  transform: scale(1.1);
+}
+
+.home .overlap-group4 {
+  height: 121px;
+  margin-top: 19px;
+  position: relative;
+  width: 119px;
+}
+
+.home .logo-design {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .logo-design:hover {
+  transform: scale(1.1);
+}
+
+.home .motion-design {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 40px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .motion-design:hover {
+  transform: scale(1.1);
+}
+
+.home .header {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 60px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .header:hover {
+  transform: scale(1.1);
+}
+
+.home .intro {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 80px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .intro:hover {
+  transform: scale(1.1);
+}
+
+.home .art {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 100px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .art:hover {
+  transform: scale(1.1);
+}
+
+.home .team-package {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: absolute;
+  top: 20px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home .team-package:hover {
+  transform: scale(1.1);
+}
+
+.home .group-3-copy-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  min-height: 294px;
+  position: absolute;
+  top: 1547px;
+  width: 1032px;
+}
+
+.home .title {
+  color: var(--supernova);
+  font-family: var(--font-family-segoeuiblack);
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-left: 60px;
+  margin-top: 2px;
+  min-height: 50px;
+  white-space: nowrap;
+}
+
+.home .tion-container {
+  align-items: flex-end;
+  background-image: url(../img/layer-19@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 227px;
+  padding: 38.0px 24.6px;
+  width: 1032px;
+}
+
+.home .a-self-taught-motion {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-right: 5.7px;
+  min-height: 88px;
+  min-width: 967px;
+  white-space: nowrap;
+}
+
+.home .span0 {
+  letter-spacing: 0.35px;
+}
+
+.home .additionally-as-a-pe {
+  letter-spacing: 0.35px;
+  line-height: 16.9px;
+  margin-top: 5px;
+  min-height: 38px;
+  min-width: 978px;
+  white-space: nowrap;
+}
+
+.home .group-3-copy {
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  left: 593px;
+  position: absolute;
+  top: 1922px;
+  transition: all 0.2s ease;
+  width: 47px;
+}
+
+.home .group-3-copy:hover {
+  transform: scale(1.1);
+}
+
+.home .store-1 {
+  color: var(--supernova);
+  flex: 1;
+  font-family: var(--font-family-segoeuiblack);
+  font-size: 13.9px;
+  letter-spacing: 0;
+  line-height: 16.7px;
+  margin-bottom: -3.1px;
+  margin-right: -2px;
+  margin-top: 1.1px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.home .group-3-copy-2 {
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  left: 988px;
+  position: absolute;
+  top: 1922px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.home .group-3-copy-2:hover {
+  transform: scale(1.1);
+}
+
+.home .model-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-bottom: -3.1px;
+  margin-right: -2px;
+  margin-top: 1.1px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.home .group-3-copy-4 {
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  left: 808px;
+  position: absolute;
+  top: 1922px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+
+.home .group-3-copy-4:hover {
+  transform: scale(1.1);
+}
+
+.home .resume-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-bottom: -3.1px;
+  margin-right: -2px;
+  margin-top: 1.1px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.home .group-3-copy-3 {
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  left: 1171px;
+  position: absolute;
+  top: 1922px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.home .group-3-copy-3:hover {
+  transform: scale(1.1);
+}
+
+.home .code-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-bottom: -3.1px;
+  margin-right: -2px;
+  margin-top: 1.1px;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.home .rectangle-1 {
+  background-image: url(https://cdn.animaapp.com/projects/629a050d2f5f83f585ada728/files/output-onlinegiftools.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  left: 282px;
+  position: absolute;
+  top: 400px;
+  width: 110px;
+}
